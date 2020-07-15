@@ -32,7 +32,13 @@ p {
   border: 12px solid #FFF
 }
 /* Change the font-family of your list */
+.center-attempt {
+  text-align: center
+}
+
 ul {
+  display:inline-block;
+  text-align: left;
   font-family: fantasy;
   font-size: 18px;
 }
