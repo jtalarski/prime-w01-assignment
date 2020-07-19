@@ -1,25 +1,29 @@
 /* Give your page a fun background color */
 body {
-  background-color: #C0C0C0;
+  background-color: azure;
 }
 /* Make the header and footer a different color from the background */
 header {
-  background: #blue;
+  background: midnightblue;
+  padding: 8px;
 }
 footer{
-  background: #blue;
+  background: midnightblue;
 }
 /* Align the h1 containing your name in the center of the header*/
 .myname h1 {
+  font-size: 1.7em;
   text-align: center;
   color: #fff;
+  text-shadow: .05em .05em .1em lightslategray;
 }
 /* Make your p tag a different color and italic */
 p {
   color: #FFF;
   font-style: italic;
-  font-size: 1.5em;
+  font-size: 1.2em;
   text-align: center;
+  padding: 4px
 }
 /* Put a border around your image */
 .img-container {
@@ -40,5 +44,5 @@ ul {
   display:inline-block;
   text-align: left;
   font-family: fantasy;
-  font-size: 1.13rem;
+  font-size: 1.1em;
 }
