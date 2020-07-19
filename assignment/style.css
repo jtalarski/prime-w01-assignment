@@ -1,9 +1,11 @@
 /* Give your page a fun background color */
 body {
-  background-color: aliceblue;
+  background-color: gainsboro;
 }
 /* Make the header and footer a different color from the background */
 header {
+  /*margin-top: 0;
+  padding: 0;*/
   background: midnightblue;
   padding: 8px;
 }
@@ -27,6 +29,7 @@ p {
 }
 /* Put a border around your image */
 .img-container {
+  margin-top: 25px;
   text-align: center;
   display: block
 }
