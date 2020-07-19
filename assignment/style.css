@@ -1,6 +1,6 @@
 /* Give your page a fun background color */
 body {
-  background-color: azure;
+  background-color: aliceblue;
 }
 /* Make the header and footer a different color from the background */
 header {
@@ -33,7 +33,7 @@ p {
 .mypic {
   width: 250px;
   height: 250px;
-  border: 12px solid #FFF
+  border: 12px solid dimgray;
 }
 /* Change the font-family of your list */
 .center-attempt {
