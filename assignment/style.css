@@ -1,13 +1,15 @@
 /* Give your page a fun background color */
 body {
+  margin: 0;
   background-color: gainsboro;
 }
 /* Make the header and footer a different color from the background */
 header {
-  /*margin-top: 0;
-  padding: 0;*/
   background: midnightblue;
-  padding: 8px;
+  padding: 8px
+}
+.site-header {
+  height: 0
 }
 footer{
   background: midnightblue;
